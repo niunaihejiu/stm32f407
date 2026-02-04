@@ -20,4 +20,7 @@ void Gas_Detection_System(void);                  // 气体检测主函数
 // 校准函数
 void MQ2_Calibrate(float multimeter_voltage, uint16_t adc_value);  // 校准传感器
 
+// SHT30温湿度传感器函数
+uint8_t SHT30_Read_Temp_Humi(float *temp, float *humi); // 读取温湿度
+
 #endif /* FUN_H */

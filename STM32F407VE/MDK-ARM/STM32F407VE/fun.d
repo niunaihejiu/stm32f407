@@ -38,5 +38,6 @@ stm32f407ve\fun.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_uart.h
 stm32f407ve\fun.o: ../Core/Inc/gpio.h
 stm32f407ve\fun.o: ../Core/Inc/usart.h
 stm32f407ve\fun.o: ../Core/Inc/adc.h
+stm32f407ve\fun.o: ../Core/Inc/i2c.h
 stm32f407ve\fun.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
 stm32f407ve\fun.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
